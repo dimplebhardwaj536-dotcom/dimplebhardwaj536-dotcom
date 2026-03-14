@@ -9,8 +9,7 @@
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-dimplebhardwaj536--dotcom-181717?style=for-the-badge&logo=github)](https://github.com/dimplebhardwaj536-dotcom)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/
-dimplebhardwaj26)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimplebhardwaj26)
 [![Email](https://img.shields.io/badge/Email-dimplebhardwaj536%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:dimplebhardwaj536@gmail.com)
 
 </div>
