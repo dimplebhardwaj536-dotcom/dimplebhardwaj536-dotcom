@@ -180,7 +180,7 @@ Currently exploring:
 
 ---
 
-## 🧭 2025 Goals
+## 🧭 2026 Goals
 
 ```
  ✅  Push 3 end-to-end ML/AI projects to GitHub
