@@ -167,18 +167,6 @@ Currently exploring:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dimplebhardwaj536-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dimplebhardwaj536-dotcom&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimplebhardwaj536-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="40%"/>
-
-</div>
-
----
 
 ## 🧭 2026 Goals
 
